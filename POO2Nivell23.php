@@ -55,6 +55,8 @@ echo "L'area del triangle es " . $triangle1->calcularArea() . "<br>";
 echo "L'area del rectangle es " . $rectangle1->calcularArea() . "<br>";
 echo "L'area del cercle es " . $cercle1->calcularArea();
 
+//hello? is this thing on?
+
 
 
 
